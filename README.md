@@ -18,7 +18,7 @@ Além de outros recursos falados nas aulas:
 Este desafio foi parte integrante do bootcamp NTT DATA Diversidade em Tech desenvolvido na plataforma de cursos
 online Digital Innovation One 💎
 
-Para entender mais a respeito do desafio [acesse aqui] (https://github.com/digitalinnovationone/trilha-html-modulo-2).
+Para entender mais a respeito do desafio [acesse aqui](https://github.com/digitalinnovationone/trilha-html-modulo-2).
 
 ## Páginas Desenvolvidas
 
@@ -38,5 +38,5 @@ Para entender mais a respeito do desafio [acesse aqui] (https://github.com/digit
 
 ## Ferramentas Gratuitas Utilizadas
 
-- [https://www.remove.bg/] (https://www.remove.bg/): Ferramenta para remover o fundo de imagens
-- [https://the-image-editor.com/] (https://the-image-editor.com/): Ferramenta com diversas funcionalidades para edição de imagens
+- [https://www.remove.bg/](https://www.remove.bg/): Ferramenta para remover o fundo de imagens
+- [https://the-image-editor.com/](https://the-image-editor.com/): Ferramenta com diversas funcionalidades para edição de imagens
