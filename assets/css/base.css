@@ -1,0 +1,93 @@
+html,
+body {
+  margin: 0;
+}
+body {
+  background-color: #f1f1f1;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  width: 1200px;
+  display: flex;
+  margin: 0 auto;
+  background-color: aquamarine;
+}
+.main {
+  display: flex;
+  flex-flow: column;
+  width: 85%;
+}
+.menu {
+  width: 15%;
+  background-color: rgb(104, 154, 206);
+  padding: 10px 20px 0px;
+}
+.header {
+  background-color: rgb(220, 239, 225);
+  min-height: 150px;
+  padding: 10px;
+}
+.content {
+  background-color: white;
+  min-height: 300px;
+  padding: 20px;
+}
+.footer {
+  padding-top: 8px;
+  background-color: rgb(220, 239, 225);
+  min-height: 150px;
+}
+#footer-localizacao {
+  display: flex;
+  flex-direction: row;
+}
+#footer-direitos {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+p {
+  text-align: center;
+  font-size: 24px;
+}
+#texto-branco {
+  color: white;
+}
+#texto-azul {
+  color: rgb(104, 154, 206);
+}
+#texto-verde {
+  color: rgb(138, 168, 42);
+}
+div.menu li {
+  color: rgb(104, 154, 206);
+  padding: 4px;
+}
+div.footer li {
+  color: rgb(220, 239, 225);
+  padding: 4px;
+}
+div#footer-localizacao span {
+  color: darkblue;
+}
+input {
+  width: 500px;
+}
+textarea {
+  width: 500px;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: black;
+}
+blockquote {
+  text-align: right;
+}
+#author {
+  color: black;
+  text-align: right;
+}

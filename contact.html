@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contatos - Studio Michelle Senna</title>
+    <link rel="stylesheet" href="./assets/css/base.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <style>
+      h1 {
+        line-height: 1;
+      }
+      li {
+        color: white;
+      }
+      span {
+        color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="menu">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">Sobre</a></li>
+          <li><a href="treatments.html">Tratamentos</a></li>
+          <li><a href="contact.html">Contato</a></li>
+        </ul>
+      </div>
+
+      <div class="main">
+        <div class="header">
+          <img
+            src="./assets/images/contact.png"
+            alt="Fale conosco"
+            longdesc="Imagem composta a esquerda com o globo, arroba do e-mail, um boneco segurando o celular, no centro com os dizeres Entre em Contato e a direita um boneco segurando um envelope."
+          />
+        </div>
+
+        <div class="content">
+          <div>
+            <div>
+              <h1>Localização</h1>
+              <ul>
+                <li>
+                  <i
+                    class="fa fa-phone"
+                    style="font-size: 24px; color: darkblue"
+                  ></i>
+                  <span>(31) 2535-6892</span>
+                </li>
+                <li>
+                  <i
+                    class="fa fa-whatsapp"
+                    style="font-size: 24px; color: darkblue"
+                  ></i>
+                  <span>(31) 99263-3791</span>
+                </li>
+                <li>
+                  <i
+                    class="fa fa-envelope"
+                    style="font-size: 24px; color: darkblue"
+                  ></i>
+                  <span>studiomichellesena@ hotmail.com</span>
+                </li>
+                <li>
+                  <i
+                    class="fa fa-map-marker"
+                    style="font-size: 24px; color: darkblue"
+                  ></i>
+                  <span
+                    >Rua Adelina de Sales Pereira, 26 - Planalto, Belo Horizonte
+                    - MG, 31720-440</span
+                  >
+                </li>
+              </ul>
+            </div>
+            <div>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3753.019594206612!2d-43.95378338563587!3d-19.839123840611776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6900510fd65d9%3A0xb5bc09d877213080!2sRua%20Adelina%20Sales%20Pereira%2C%2026%20-%20Planalto%2C%20Belo%20Horizonte%20-%20MG%2C%2031720-440!5e0!3m2!1spt-BR!2sbr!4v1666991714031!5m2!1spt-BR!2sbr"
+                width="100%"
+                height="100%"
+                style="border: 0"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
+            <div>
+              <h1>Retire suas dúvidas</h1>
+              <p>Preencha o formulário e retire suas dúvidas</p>
+              <form
+                name="message"
+                autocomplete="off"
+                onsubmit="alert('Dados enviados')"
+                method="POST"
+                width="300px"
+              >
+                <label for="inputName">Nome<sup>*</sup>:</label><br />
+                <input type="text" id="inputName" /><br />
+
+                <label for="inputEmail">Email<sup>*</sup>:</label><br />
+                <input type="email" id="inputEmail" /><br />
+
+                <label for="inputSubject">Assunto<sup>*</sup>:</label><br />
+                <input type="text" id="inputSubject" /><br />
+
+                <label for="inputSubject">Mensagem<sup>*</sup>:</label><br />
+                <textarea name="message" cols="30" rows="10"></textarea>
+                <br />
+
+                <div id="buttons">
+                  <button type="reset">Limpar</button>
+                  <button type="submit">Enviar dados</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <div class="footer">
+          <div id="footer-localizacao">
+            <ul>
+              <span><strong>Localização</strong></span>
+              <li>
+                <i
+                  class="fa fa-phone"
+                  style="font-size: 24px; color: darkblue"
+                ></i>
+                <span>(31) 2535-6892</span>
+              </li>
+              <li>
+                <i
+                  class="fa fa-whatsapp"
+                  style="font-size: 24px; color: darkblue"
+                ></i>
+                <span>(31) 99263-3791</span>
+              </li>
+              <li>
+                <i
+                  class="fa fa-envelope"
+                  style="font-size: 24px; color: darkblue"
+                ></i>
+                <span>studiomichellesena@ hotmail.com</span>
+              </li>
+              <li>
+                <i
+                  class="fa fa-map-marker"
+                  style="font-size: 24px; color: darkblue"
+                ></i>
+                <span
+                  >Rua Adelina de Sales Pereira, 26 - Planalto, Belo Horizonte -
+                  MG, 31720-440</span
+                >
+              </li>
+            </ul>
+            <div>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3753.019474953938!2d-43.95378338604538!3d-19.839128886654716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6900510fd65d9%3A0xb5bc09d877213080!2sRua%20Adelina%20Sales%20Pereira%2C%2026%20-%20Planalto%2C%20Belo%20Horizonte%20-%20MG%2C%2031720-440!5e0!3m2!1spt-BR!2sbr!4v1667400173033!5m2!1spt-BR!2sbr"
+                width="400"
+                height="180"
+                style="border: 0"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
+          </div>
+          <div id="footer-direitos">
+            <span id="texto-branco">
+              © 2022&nbsp;Studio Michelle Sena. Todos os direitos reservados.
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
