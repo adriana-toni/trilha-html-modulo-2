@@ -23,7 +23,7 @@ Para entender mais a respeito do desafio [acesse aqui](https://github.com/digita
 ## Páginas Desenvolvidas
 
 - Home
-  <img src="https://github.com/adriana-toni/trilha-html-modulo-2/blob/main/assets/images/HomePage.png">
+  <img src="https://github.com/adriana-toni/trilha-html-modulo-2/blob/main/assets/images/HomePage.PNG">
 
 - About
   <img src="https://github.com/adriana-toni/trilha-html-modulo-2/blob/main/assets/images/AboutPage.png">
@@ -33,8 +33,8 @@ Para entender mais a respeito do desafio [acesse aqui](https://github.com/digita
   <img src="https://github.com/adriana-toni/trilha-html-modulo-2/blob/main/assets/images/TreatmentsPage_Part2.png">
 
 - Contact
-  <img src="https://github.com/adriana-toni/trilha-html-modulo-2/blob/main/assets/images/ContactPage_Part1.png">
-  <img src="https://github.com/adriana-toni/trilha-html-modulo-2/blob/main/assets/images/ContactPage_Part2.png">
+  <img src="https://github.com/adriana-toni/trilha-html-modulo-2/blob/main/assets/images/ContactPage_Part1.PNG">
+  <img src="https://github.com/adriana-toni/trilha-html-modulo-2/blob/main/assets/images/ContactPage_Part2.PNG">
 
 ## Ferramentas Gratuitas Utilizadas
 
